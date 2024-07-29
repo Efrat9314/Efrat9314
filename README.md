@@ -8,6 +8,7 @@ I'm Efrat Yanay, a software developer with a passion for building great applicat
 - [**React**](https://github.com/Efrat9314/React-finalProject.git) 
 - [**Angular**](https://github.com/Efrat9314/angular-app.git)
 - [**CSS**](https://github.com/Efrat9314/css-project.git)
+- [**SQL**](https://github.com/Efrat9314/sql-project-bank.git)
 
 
 
