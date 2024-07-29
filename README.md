@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I'm Efrat Yanay, a software developer with a passion for building great applications. Here's a bit about what I do...
+- [**.Net**](https://github.com/Efrat9314/HotelProject.git)
+- [**JavaScript**](https://github.com/Efrat9314/thinking-game-js-project.git)
+- [**Python**](https://github.com/Efrat9314/python-game.git) 
+- [**Java**](https://github.com/Efrat9314/java-final-project.git) 
+- [**React**](https://github.com/Efrat9314/React-finalProject.git) 
+- [**Angular**](https://github.com/Efrat9314/angular-app.git)
+- [**CSS**](https://github.com/Efrat9314/css-project.git)
+
+
+
 <!--
 **Efrat9314/efrat9314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
