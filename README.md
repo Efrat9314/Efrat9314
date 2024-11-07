@@ -2,6 +2,7 @@
 
 I'm Efrat Yanay, a software developer with a passion for building great applications. Here's a bit about what I do...
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 # Projects Overview
 
 ## Hotel Management Web Application
